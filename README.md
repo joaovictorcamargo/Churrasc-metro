@@ -1,4 +1,5 @@
 📋 Sobre o Projeto
+
 Sitema para calcular a quantidade de comida e bebida necessária para um churrasco,
 com base nas informações seguintes:
 Carne - 400gr por pessoa + de 6horas - 650gr
@@ -11,5 +12,7 @@ Crianças valem por 0,5.
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 HTML
+
 CSS
+
 JavaScript
